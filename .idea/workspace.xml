@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9c929dd-8a20-41f0-b440-636a21e37014" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jYtyjo3N6n4UHgXNt46KuabS9M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ks8-test" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ks8-test" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="node index.js" />
+      <command value="yarn start:dev" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9c929dd-8a20-41f0-b440-636a21e37014" name="Default Changelist" comment="" />
+      <created>1603993108299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603993108299</updated>
+      <workItem from="1603993109801" duration="1567000" />
+      <workItem from="1604083804935" duration="1765000" />
+      <workItem from="1604254508299" duration="2204000" />
+      <workItem from="1604317492005" duration="14000" />
+      <workItem from="1604319579113" duration="21000" />
+      <workItem from="1604339894807" duration="278000" />
+      <workItem from="1604422299346" duration="2290000" />
+      <workItem from="1604485260020" duration="46000" />
+      <workItem from="1604496114069" duration="2157000" />
+      <workItem from="1604565533134" duration="12000" />
+      <workItem from="1604600541820" duration="989000" />
+      <workItem from="1604662374933" duration="4033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1020" height="204" key="GridCell.Tab.0.bottom" timestamp="1604424845594">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1020" height="204" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604424845594" />
+    <state width="1020" height="204" key="GridCell.Tab.0.center" timestamp="1604424845594">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1020" height="204" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604424845594" />
+    <state width="1020" height="204" key="GridCell.Tab.0.left" timestamp="1604424845593">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1020" height="204" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604424845593" />
+    <state width="1020" height="204" key="GridCell.Tab.0.right" timestamp="1604424845594">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1020" height="204" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604424845594" />
+    <state x="1082" y="376" width="598" height="490" key="find.popup" timestamp="1604498030669">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1082" y="376" width="598" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604498030669" />
+    <state x="581" y="259" width="670" height="675" key="run.anything.popup" timestamp="1604424857780">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="581" y="259" width="670" height="675" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604424857780" />
+  </component>
+</project>
