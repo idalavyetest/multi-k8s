@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9c929dd-8a20-41f0-b440-636a21e37014" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/certificate.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/issuer.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +61,15 @@
       <workItem from="1604662374933" duration="4403000" />
       <workItem from="1604857228856" duration="766000" />
       <workItem from="1604918182319" duration="12000" />
-      <workItem from="1604942023292" duration="399000" />
+      <workItem from="1604942023292" duration="1081000" />
+      <workItem from="1604990768236" duration="11000" />
+      <workItem from="1605030714215" duration="1750000" />
+      <workItem from="1605078776113" duration="11000" />
+      <workItem from="1605253789732" duration="1082000" />
+      <workItem from="1605258863687" duration="1897000" />
+      <workItem from="1605552770408" duration="939000" />
+      <workItem from="1605595917634" duration="6000" />
+      <workItem from="1605647969736" duration="269000" />
     </task>
     <servers />
   </component>
